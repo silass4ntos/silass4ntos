@@ -4,13 +4,10 @@
 <div>
   
   <a href="https://github.com/silassantosmoura">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=silassantosmoura&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  </a>
-   <a href="https://github.com/silassantosmoura">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silassantosmoura&theme=github_dark&layout=compact"/>
-  </a>  
-  <a href="https://www.linkedin.com/in/silas-santos-517209256/" >
-    <img height="120m" src="https://i.pinimg.com/564x/bc/d3/f5/bcd3f572b004912d4af03f6a5ad06c9d.jpg"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silassantosmoura&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+
+  <a href="https://www.linkedin.com/in/silas-santos-517209256/">
+    <img aling="right" height="180m" src="https://i.pinimg.com/564x/bc/d3/f5/bcd3f572b004912d4af03f6a5ad06c9d.jpg"/>
   </a>
 </div>
  
