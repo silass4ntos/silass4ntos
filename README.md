@@ -5,7 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=silassantosmoura&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </a>
 <a href="https://github.com/silassantosmoura">
-  <img width="210px" align="right" src="https://i.pinimg.com/564x/92/7b/8d/927b8d33d13bacca71acd337b3c7af3d.jpg"/>
+  <img width="210px" align="right" src="/img/DrBg.gif"/>
 </a>
 
 <div style="display: inline_block;"><br>
