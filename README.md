@@ -1,11 +1,12 @@
 
 ### Eai eu sou Silas Santos, um Desenvolvedor Web! 
 <hr>
+
 <a href="https://github.com/silassantosmoura">
   <img src="https://github-readme-stats.vercel.app/api?username=silassantosmoura&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </a>
 <a href="https://github.com/silassantosmoura">
-  <img width="210px" align="right" src="/img/DrBg.gif"/>
+  <img width="210px" align="right" src="/img/DrBg.gif"/ >
 </a>
 
 ### Meus projetos
@@ -28,5 +29,6 @@
 </div><br>
 
   [![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=silassantosmoura&theme=github-compact)](https://github.com/silassantosmoura/github-readme-activity-graph)
+  
   
   
