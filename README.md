@@ -24,11 +24,11 @@
 <hr>
   
 <div><br>
-  <a href="https://www.instagram.com/_s1l4s_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/silas-santos-517209256/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+  <a href="https://www.instagram.com/_s1l4s_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/silas-santos-517209256/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  
 </div><br>
 
   [![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=silassantosmoura&theme=github-compact)](https://github.com/silassantosmoura/github-readme-activity-graph)
-  
-  
   
