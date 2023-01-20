@@ -11,7 +11,7 @@
 
 ### Meus projetos
 <a style="color:white;" href="https://silassantosmoura.github.io/Site-Turismo/" target="_blank">
-  <kbd>Guia Turistico</kbd>
+  <kbd>Guia Turistico ✈</kbd>
 </a>
 
 <div style="display: inline_block;"><br>
