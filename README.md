@@ -2,10 +2,10 @@
 ### Eai eu sou Silas Santos, um Desenvolvedor Web! 
 <hr>
 <br>
-<a href="https://github.com/silassantosmoura">
+<a href="https://github.com/silass4ntos">
   <img src="https://github-readme-stats.vercel.app/api?username=silassantosmoura&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </a>
-<a href="https://github.com/silassantosmoura">
+<a href="https://github.com/silass4ntos">
   <img width="210px" align="right" src="/img/DrBg.gif"/ >
 </a>
 
@@ -29,6 +29,6 @@
   <a href="https://www.linkedin.com/in/silas-santos-517209256/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div><br>
 
-  [![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=silassantosmoura&theme=github-compact)](https://github.com/silassantosmoura/github-readme-activity-graph)
+  [![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=silass4ntos&theme=github-compact)](https://github.com/silassantosmoura/github-readme-activity-graph)
  <br><br>
  <img src="./img/space.gif"/>
