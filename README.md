@@ -3,7 +3,7 @@
 <hr>
 <br>
 <a href="https://github.com/silass4ntos">
-  <img src="https://github-readme-stats.vercel.app/api?username=ssilass4ntos&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=silass4ntos&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </a>
 <a href="https://github.com/silass4ntos">
   <img width="210px" align="right" src="/img/DrBg.gif"/ >
