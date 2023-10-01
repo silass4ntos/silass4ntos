@@ -10,9 +10,7 @@
 </a>
 
 ### Meus projetos
-<a style="color:white;" href="https://silass4ntos.github.io/Site-Turismo/" target="_blank">
-  <kbd>Guia Turistico ✈</kbd>
-</a>
+
 
 <hr>
 
