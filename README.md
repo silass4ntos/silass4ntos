@@ -10,7 +10,7 @@
 </a>
 
 ### Meus projetos
-<a class="label label-success" href="https://silass4ntos.github.io/Mente-perigosa/">Musica</a>
+
 
 <hr>
 
