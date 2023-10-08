@@ -10,9 +10,10 @@
 </a>
 
 ### Meus projetos
-<a href="https://silass4ntos.github.io/Mente-perigosa/">
-  Site de musicas
-</a>
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+<a href="https://silass4ntos.github.io/Mente-perigosa/" target="_blank"><h1><kbd>Mente Perigosa</kbd></h1></a>
+
+
 
 <hr>
 
