@@ -1,5 +1,5 @@
 
-### Eai eu sou Silas Santos, um Desenvolvedor Web! 
+### Eai eu sou Silas, um Desenvolvedor Web! 
 <hr>
 <br>
 <a href="https://github.com/silass4ntos">
