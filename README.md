@@ -14,7 +14,7 @@
 
 <a href="https://silass4ntos.github.io/Mente-perigosa/" ><kbd>Mente Perigosa</kbd></a>
 <br><br>
-<a href="https://silass4ntos.github.io/Site-Turismo/"><kbd>Site turismo</kbd></a>
+<a href="https://silass4ntos.github.io/knowledge/"><kbd>Testes Aleatórios</kbd></a>
 
 
 <hr>
