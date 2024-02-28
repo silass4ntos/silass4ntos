@@ -13,8 +13,6 @@
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 
 <a href="https://silass4ntos.github.io/Mente-perigosa/" targert="_blank" ><kbd>Mente Perigosa</kbd></a>
-<br><br>
-<a href="https://silass4ntos.github.io/Reposit-rio-Roms/"  targert="_blank" ><kbd>Roms</kbd></a>
 
 
 <hr>
