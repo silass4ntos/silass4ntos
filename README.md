@@ -1,5 +1,5 @@
 
-### Eai eu sou Silas, Desenvolvedor Web! 
+### Dev Web & Graduando em Ciência da Computação! 
 <hr>
 <br>
 <a href="https://github.com/silass4ntos">
