@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=silass4ntos&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </a>
 <a href="https://github.com/silass4ntos">
-  <img width="210px" align="right" src="https://laughingsquid.com/wp-content/uploads/2014/05/basicgif2.gif"/ >
+  <img width="300px" align="right" src="https://laughingsquid.com/wp-content/uploads/2014/05/basicgif2.gif"/ >
 </a>
 
 ### Meus projetos
