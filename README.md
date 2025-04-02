@@ -13,7 +13,7 @@
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 
 <a href="https://silass4ntos.github.io/Mente-perigosa/" targert="_blank" ><kbd>Mente Perigosa</kbd></a>
-<br>
+<br><br>
 <a href="https://silass4ntos.github.io/Portifolio/" targert="_blank" ><kbd>Portifolio teste</kbd></a>
 
 
@@ -26,5 +26,5 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-<br><br><br><br>
+<br>
 
