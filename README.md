@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=silass4ntos&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </a>
 <a href="https://github.com/silass4ntos">
-  <img width="210px" align="right" src="/img/DrBg.gif"/ >
+  <img width="400px" align="right" src="https://laughingsquid.com/wp-content/uploads/2014/05/basicgif2.gif"/ >
 </a>
 
 ### Meus projetos
@@ -27,4 +27,4 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 <br><br><br><br>
-<img src="./img/space.gif"/>
+
